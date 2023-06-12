@@ -3,7 +3,7 @@
 
 ## With .NET MAUI, developers can write a single codebase using C# and XAML to create the user interface and business logic for their applications. The framework abstracts the platform-specific details, allowing developers to build apps that have a native look and feel on each platform.
 
-Here are some key points about .NET MAUI:
+## Here are some key points about .NET MAUI:
 
 Cross-Platform Development: .NET MAUI allows developers to write code once and deploy it on multiple platforms, reducing development time and effort.
 
